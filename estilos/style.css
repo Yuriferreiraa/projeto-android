@@ -55,12 +55,14 @@ header > h1{
 header > p{
     color: white;
     text-align: center;
-    margin-top: 40px;
+    margin: auto;
     font-size: 1.2em;
     font-family: var(--fontepadrao);
     padding-left: 10px;
     padding-right: 10px;
-    padding-bottom: 70px;
+    padding-bottom: 50px;
+    max-width: 600px;
+    padding-top: 30px;
 }
 nav{
     background-color: var(--cor05);
